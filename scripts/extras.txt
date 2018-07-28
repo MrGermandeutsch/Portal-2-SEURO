@@ -1,0 +1,18 @@
+"Extras"
+{
+	"Chapter1"
+	{
+		"title"		"CHAPTER 1"
+		"subtitle"	"CHAPTER 1"
+		"pic"        "vgui/chapters/chapter1"
+		"map"		"sp_a1_01"
+	}
+	"Chapter2"
+	{
+		"title"		"CHAPTER 2"
+		"subtitle"	"CHAPTER 2"
+		"pic"        "vgui/chapters/chapter2"
+		"map"		""
+	}
+
+}
