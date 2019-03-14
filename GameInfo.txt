@@ -1,25 +1,25 @@
 "GameInfo"
 {
- game   "Portal 2: SEURO"
- title   "Portal 2: SEURO"
- gamelogo  1
+	game		"Portal 2: SEURO"
+	title  		"Portal 2: SEURO"
+	gamelogo	1
 
- SupportsDX8     0
- SupportsXbox360 1
+	SupportsDX8     0
+	SupportsXbox360 1
 
- FileSystem
- {
-  SteamAppId 620
-  ToolsAppId 211
+	FileSystem
+	{
+		SteamAppId	620
+		ToolsAppId	211
 
-  SearchPaths
-  {
-   Game    |gameinfo_path|.
-   Game    portal2
-   Game    portal2_dlc1
-   Game    portal2_dlc2
-   Game	   update
-   platform			platform
-  }
- }
+		SearchPaths
+		{
+			Game		|gameinfo_path|.
+			Game		portal2
+			Game		portal2_dlc1
+			Game		portal2_dlc2
+			Game		update
+			platform	platform
+		}
+	}
 }
